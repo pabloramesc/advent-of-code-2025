@@ -1,4 +1,4 @@
-# Advent of Code 2025 – First 12 Days
+# Advent of Code 2025 – First 12 Days of December
 
 - [x] Day 1
 - [x] Day 2
